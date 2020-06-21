@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\dotnet\\AsyncAwait\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\repos\\git\\dotnet\\AsyncAwait\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\repos\\dotnet\\AsyncAwait\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\repos\\git\\dotnet\\AsyncAwait\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Pravin\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\dotnet\\AsyncAwait\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\repos\\git\\dotnet\\AsyncAwait\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iRX4L8ratxeyDscJlLAwE4cYybgSFuHW87fJJnPlO8+8EmKhZ/yaeQB858kDYoRBcNt4RpmmJmDRl4h9slYTLQ==",
+  "dgSpecHash": "7q5I8jq8ZXMKpHQJLJjcuScUIr86UMq7snx0CN0iD5Ef/yD7xzK5TAMPg6O95Q7SvWNRXYOBQ86cArxJt5Acsg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\dotnet\\AsyncAwait\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\repos\\git\\dotnet\\AsyncAwait\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
